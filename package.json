@@ -1,0 +1,7 @@
+{
+  "name": "yarn-plugin-dedupe-on-install",
+  "version": "0.0.0",
+  "description": "Deduplication script for yarn berry (2+)",
+  "license": "MIT",
+  "main": "index.js"
+}
