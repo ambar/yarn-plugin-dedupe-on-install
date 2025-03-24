@@ -1,0 +1,8 @@
+{
+  "extends": "@tsconfig/strictest",
+  "compilerOptions": {
+    "noEmit": true,
+    "noPropertyAccessFromIndexSignature": false
+  },
+  "include": ["**/*.js"]
+}
