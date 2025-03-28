@@ -16,6 +16,13 @@
   "organizeImports": {
     "enabled": true
   },
+  "javascript": {
+    "formatter": {
+      "quoteStyle": "single",
+      "semicolons": "asNeeded",
+      "trailingCommas": "none"
+    }
+  },
   "vcs": {
     "clientKind": "git",
     "enabled": true,
