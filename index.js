@@ -31,8 +31,8 @@ module.exports = {
               await execute('yarn dedupe')
             }
           }
-        }
-      }
+        },
+      },
     }
-  }
+  },
 }

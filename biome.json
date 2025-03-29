@@ -19,8 +19,7 @@
   "javascript": {
     "formatter": {
       "quoteStyle": "single",
-      "semicolons": "asNeeded",
-      "trailingCommas": "none"
+      "semicolons": "asNeeded"
     }
   },
   "vcs": {
